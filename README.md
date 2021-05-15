@@ -25,7 +25,7 @@ Then you should navigate to the folder where you cloned this repository and move
 sudo cp compileFaster/compile /usr/local/bin/
 ```
 
-##Usage
+## Usage
 
 Now the you should be able to use this script from anywhere on your machine.
 
@@ -34,7 +34,7 @@ Example:
 compile main_source_file.c -lpthread secondary_source_file.c
 ```
 
-#Contributing
+## Contributing
 
 I am open to contributions, if you want to add some cool features to this script, please feel free to make a pull request.
 
