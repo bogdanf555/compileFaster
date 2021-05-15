@@ -38,6 +38,6 @@ compile main_source_file.c -lpthread secondary_source_file.c
 
 I am open to contributions, if you want to add some cool features to this script, please feel free to make a pull request.
 
-#License
+## License
 
 This project is licensed under [MIT](https://choosealicense.com/licenses/mit/).
