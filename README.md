@@ -27,7 +27,7 @@ sudo cp compileFaster/compile /usr/local/bin/
 
 ## Usage
 
-Now the you should be able to use this script from anywhere on your machine.
+Now you should be able to use this script from anywhere on your machine.
 
 Example:
 ```bash
