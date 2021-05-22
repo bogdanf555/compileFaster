@@ -113,7 +113,7 @@ int main(int argc, char** argv) {
 	fflush(NULL);
 
 	if(system(command)) {
-		printf("ERROR: could not compile, please make sure you use valid gcc flags.\n");
+		printf("ERROR: could not compile, please make sure you use valid gcc flags and your code is clean of errors and warnings.\n");
 		exit(7);
 	}
 
